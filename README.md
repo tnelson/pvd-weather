@@ -199,6 +199,8 @@ It gave me a series of instructions, which I am condensing here.
 
 (And it added a warning about React Router.)
 
+It didn't warn me I'd need to wait for the build after enabling Pages, but that's OK. 
 
+But I'm getting errors: it days it can't find `main.tsx`...
 
 
